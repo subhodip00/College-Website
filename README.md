@@ -1,3 +1,3 @@
 # College-Website
 A sample template for a college website
-website URL: https://subhodip00.github.io/College-Website/
+website URL: https://idyllic-smakager-8d22a3.netlify.app
